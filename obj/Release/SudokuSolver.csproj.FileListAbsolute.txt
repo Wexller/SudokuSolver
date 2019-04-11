@@ -1,0 +1,9 @@
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe.config
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.pdb
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.SudokuSolverForm.resources
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.Properties.Resources.resources
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csproj.GenerateResource.cache
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.exe
+C:\Users\Wexller\source\repos\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.pdb
